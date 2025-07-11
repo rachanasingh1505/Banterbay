@@ -1,2 +1,0 @@
-# Banterbay
-gaming website
